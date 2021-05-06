@@ -5,7 +5,7 @@ I started my coding journey Jan 2021.
 I learned so much during this project and am only getting started!
 Check lines 320+ for Testing
 
-*Rules*
+**Rules**
 
 $1000 Bankroll
 Split is available on same value cards
