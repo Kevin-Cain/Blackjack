@@ -7,10 +7,10 @@ Check lines 320+ for Testing
 
 **Rules**
 
--$1000 Bankroll
--Split is available on same value cards
--Can only Double original hand.
+-$1000 Bankroll/n
+-Split is available on same value cards/n
+-Can only Double original hand./n
 
 
-Thank you for checking it out and please give any feedback on how I could improve my code!
+Thank you for checking it out and please give any feedback on how I could improve my code!/n
 ENJOY!!!
