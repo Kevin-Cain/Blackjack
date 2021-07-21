@@ -28,7 +28,7 @@ pip install Pygame
 ### Executing program
 
 ```
-cd Blackjack
+cd Blackjack_Game
 ```
 ```
 python3 Blackjack.py
