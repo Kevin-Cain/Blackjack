@@ -21,3 +21,4 @@ Can only Double original hand
 
 Thank you for checking it out and please give any feedback on how I could improve my code!
 ENJOY!!!
+<script src="https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc.js"></script>
