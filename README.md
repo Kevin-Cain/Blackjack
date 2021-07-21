@@ -1,4 +1,4 @@
-# Project Title
+# BlackJack
 
 BlackJack (21) written in Python, using Pygame for the user interface.
 
